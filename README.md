@@ -16,7 +16,7 @@
   </a>
   <img src="https://img.shields.io/badge/Monterrey,_México-555?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Ubicación"/>
   <!-- Actualiza tu LinkedIn aquí 👇 -->
-  <a href="https://www.linkedin.com/in/TU-USUARIO">
+  <a href="https://www.linkedin.com/in/alejandro-martinez-cs">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
